@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Adaptive cointegration test with nonstationary volatility (Ox)"
+authors:
+  - family-names: Boswijk
+    given-names: H. Peter
+  - family-names: Zu
+    given-names: Yang
+preferred-citation:
+  type: article
+  title: "Adaptive testing for cointegration with nonstationary volatility"
+  authors:
+    - family-names: Boswijk
+      given-names: H. Peter
+    - family-names: Zu
+      given-names: Yang
+  journal: "Journal of Business and Economic Statistics"
+  volume: 40
+  start: 744
+  end: 755
+  year: 2022
+  doi: "10.1080/07350015.2020.1867558"
